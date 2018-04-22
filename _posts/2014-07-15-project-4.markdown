@@ -1,12 +1,11 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 燕巢圖書館說故事
+subtitle: 公主與蛇
 layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
+thumbnail: activity04-thumbnail.png
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

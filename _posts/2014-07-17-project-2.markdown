@@ -1,11 +1,11 @@
 ---
-title: Escape
-subtitle: Website Design
+title: 二仁攜手必有可乘之機
+subtitle: 寒假營隊
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
-thumbnail: escape-thumbnail.png
+thumbnail: activity02-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
