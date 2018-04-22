@@ -1,0 +1,44 @@
+.stat-container {
+  margin: 0 auto;
+  position: relative;
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.number-container {
+  display: inline-block;
+  margin-right: 100px;
+  text-align: center;
+  width: 300px;
+  opacity: 0;
+  transform: translateY(50px);
+  transition: all 0s linear;
+}
+
+.number-container:last-of-type {
+  margin-right: 0;
+}
+
+.number {
+  color: #fff;
+  font-family: "DINRoundOT";
+  text-align: center;
+  font-size: 5em;
+  font-weight: 500;
+  opacity: 0.15;
+  margin: 0;
+}
+p{
+  color: #fff;
+  font-family: "DINRoundOT";
+  text-align: center;
+  opacity: 0.15;
+  margin: 0;
+}
+
+.number-container.active {
+  opacity: 1;
+  transform: translateY(0px);
+  transition: all 1s ease;
+}
