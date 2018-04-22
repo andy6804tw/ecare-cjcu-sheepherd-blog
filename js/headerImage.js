@@ -15,4 +15,4 @@ const Imageurl = `${img.baseURI}img/header/bg${random}.png`;
 // 載入隨機更換背景照片
 img.style.backgroundImage = `url(${Imageurl})`;
 
-console.log(random);
+console.log(Imageurl);
