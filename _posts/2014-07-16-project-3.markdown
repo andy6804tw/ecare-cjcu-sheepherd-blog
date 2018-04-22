@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: 資訊課程趣味競賽活動
+subtitle: 仁愛之家
 layout: default
 modal-id: 3
 date: 2014-07-16
