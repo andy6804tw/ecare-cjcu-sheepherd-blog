@@ -1,0 +1,18 @@
+---
+title: 二仁攜手必有可乘之機
+subtitle: 寒假營隊
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: activity02.png
+thumbnail: activity02-thumbnail.png
+alt: image-alt
+project-date: April 2014
+# client: Start Bootstrap
+# clientURL: http://yahoo.com
+# category: Web Development
+# categoryURL: http://google.com
+detailURL: https://andy6804tw.github.io/ecare-cjcu-sheepherd-web-2018/document/activity2/intro
+description: 此活動是本學年第二場營隊，本次主題為大自然與飛機，所以我們帶領小朋友到高雄市茄萣區萣舢筏協會參觀二仁溪的環境生態以及人文變遷還有探索紅樹林，並藉由遊船體驗當地的生態棲息地，下午帶領小朋友介紹長榮大學IDT有關於智慧家電的概念展示、六軸動感平台的介紹、Zenbo介紹。並在電腦教室體驗四軸飛行模擬器 RealFlight、彩繪面具、作品發表、頒獎。
+
+---

@@ -1,0 +1,18 @@
+---
+title: 3C課程與防詐騙宣導
+subtitle: 仁愛之家
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: activity05.png
+thumbnail: activity05-thumbnail.png
+alt: image-alt
+project-date: April 2014
+# client: Start Bootstrap
+# clientURL: http://yahoo.com
+# category: Web Development
+# categoryURL: http://google.com
+detailURL: https://andy6804tw.github.io/ecare-cjcu-sheepherd-web-2018/document/activity4/intro
+description: 本次仁愛之家是學年度的第二場活動，這次的主題是防詐騙宣導，我們藉由準備的影片讓長輩了解正確的防詐騙知識，並且與遊戲互動陪伴與關懷這些長者，此外我們還利用平板教導如何使用應用軟體並查詢天氣、交通工具時刻、訂票、醫院掛號......等。
+
+---

@@ -1,0 +1,17 @@
+---
+title: 燕巢圖書館VR/AR導覽
+subtitle: 跨媒體整合與資訊應用
+layout: default
+modal-id: 6
+date: 2014-07-13
+img: activity06.png
+thumbnail: activity06-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+clientURL: http://yahoo.com
+category: Web Development
+categoryURL: http://google.com
+description: 我們長榮牧羊人與燕巢圖書館合作，製作了一系列的圖書館導覽，使用虛擬實境（VR）或擴增實境（AR）之技術呈現，不再只是讓民眾閱讀深硬的文字條文，而是透過身歷其境的解說更了解相關規定的內涵與使用方式。此外 360° 圖書館導覽將圖書館各樓層的場景以3D的方式呈現。改變多數人以平面照片搭配文字的介紹方式，使用者彷彿身在館中，而不單單只是某個固定視角的觀看方式。
+
+---

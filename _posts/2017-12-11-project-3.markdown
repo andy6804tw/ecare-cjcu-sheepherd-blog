@@ -1,0 +1,18 @@
+---
+title: 資訊課程趣味競賽活動
+subtitle: 仁愛之家
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: activity03.png
+thumbnail: activity03-thumbnail.png
+alt: image-alt
+project-date: April 2014
+# client: Start Bootstrap
+# clientURL: http://yahoo.com
+# category: Web Development
+# categoryURL: http://google.com
+detailURL: https://andy6804tw.github.io/ecare-cjcu-sheepherd-web-2018/document/activity3/intro
+description: 高雄市燕巢區仁愛之家一直以來是我們服務的對象，我們志工團隊將教導爺爺奶奶們使用平板電腦、通訊軟體LINE、自拍相機B612、手機遊戲等相關軟體。使用智慧型產品不再只是年輕人的專利。長輩們也能將這些智慧型產品帶來的便利融入生活中。
+
+---

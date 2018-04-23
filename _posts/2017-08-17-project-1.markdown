@@ -1,0 +1,18 @@
+---
+title: 靈機一動樂高機器人
+subtitle: 暑期營隊
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: activity01.png
+thumbnail: activity01-thumbnail.png
+alt: image-alt
+project-date: April 2014
+# client: uuuu
+# clientURL: http://yahoo.com
+# category: Web Development
+# categoryURL: http://google.com
+detailURL: https://andy6804tw.github.io/ecare-cjcu-sheepherd-web-2018/document/activity1/intro
+description: 此活動是本學年度的第一場暑期親子營隊，主要帶領小朋友組裝一個屬於自己的樂高機器人並運用一些簡單的程式邏輯來控制它，我們所使用的樂高是 LEGO NXT 模組，它是一款能夠用程式積木拖拉的方式讓樂高機器人動起來此外包含許多感測器模組，像是超音波、紅外線、光感......等，其中我們下午還舉辦一場樂高陀螺競賽，來比看誰能夠組出一個最會轉的陀螺，藉由親子間的討論與合作能夠更增進彼此間的感情。
+
+---

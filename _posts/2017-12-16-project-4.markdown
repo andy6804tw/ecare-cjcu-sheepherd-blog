@@ -1,0 +1,17 @@
+---
+title: 燕巢圖書館說故事
+subtitle: 公主與蛇
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: activity04.png
+thumbnail: activity04-thumbnail.png
+project-date: April 2014
+# client: Start Bootstrap
+# clientURL: http://yahoo.com
+# category: Web Development
+# categoryURL: http://google.com
+detailURL: https://andy6804tw.github.io/ecare-cjcu-sheepherd-web-2018/document/activity4/intro
+description: 長榮牧羊人的另一項活動是到燕巢圖書館唸故事給小孩聽及陪小孩玩，我們還提供一些小活動讓小朋友藉由實作的時間激發自己的創造力，本次活動中我們準備了黏土與磁鐵讓小朋友製作一個屬於自己的黏土磁鐵並度過這愉快的週末。
+
+---
