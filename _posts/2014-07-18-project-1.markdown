@@ -8,8 +8,10 @@ img: activity01.png
 thumbnail: activity01-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: uuuu
+clientURL: http://yahoo.com
 category: Web Development
+categoryURL: http://google.com
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
