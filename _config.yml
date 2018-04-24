@@ -12,27 +12,30 @@ people:
 - name: 朱瓊珮 老師
   pic: 1
   position: 副領隊
-  social:
+  contact:
     - title: envelope
       url: michelle1005@mail.cjcu.edu.tw
+  social:
     - title: user
       url: http://dweb.cjcu.edu.tw/iid/teacher/IN
 
 - name: 吳南烈 老師
   pic: 2
   position: 領隊
-  social:
+  contact:
     - title: envelope
       url: chun@mail.cjcu.edu.tw
+  social:
     - title: user
       url: http://dweb.cjcu.edu.tw/csie/teacher/CS
 
 - name: 蘇益生 老師
   pic: 3
   position: 副領隊
-  social:
+  contact:
     - title: envelope
       url: yssu@mail.cjcu.edu.tw
+  social:
     - title: user
       url: http://dweb.cjcu.edu.tw/csie/teacher/CS
 
