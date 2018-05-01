@@ -8,7 +8,7 @@ function callAnimation() {
     .animate({
       int: endValue
     }, {
-        duration: 2 * 1000,
+        duration: 1 * 1000,
         step: function () {
           $num1.text(Math.ceil(this.int));
         }
@@ -22,7 +22,7 @@ function callAnimation() {
     .animate({
       int: endValue
     }, {
-        duration: 2 * 1000,
+        duration: 1.8 * 1000,
         step: function () {
           $num2.text(Math.ceil(this.int));
         }
@@ -36,7 +36,7 @@ function callAnimation() {
     .animate({
       int: endValue
     }, {
-        duration: 2 * 1000,
+        duration: 2.5 * 1000,
         step: function () {
           $num3.text(Math.ceil(this.int));
         }
