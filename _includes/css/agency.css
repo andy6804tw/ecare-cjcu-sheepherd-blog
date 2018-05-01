@@ -636,12 +636,32 @@ section h3.section-subheading {
 .team-member {
     margin-bottom: 50px;
     text-align: center;
+    /* hover */
+    position: relative;
+    display: inline-block;
 }
-
+/* hover image */
+.img-2 {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+.team-member:hover .img-2 {
+    transition: all ease .5s;
+    opacity: 1;
+}
+    .team-member img:hover {
+    margin: 0 auto;
+    transition: all ease .5s;
+    border: 7px solid rgba(254,209,54,.9);
+}
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
 }
+
 
 .team-member h4 {
     margin-top: 25px;

@@ -10,7 +10,8 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: 朱瓊珮 老師
-  pic: 1
+  pic: 1-1
+  pic2: 1-2
   position: 副領隊
   contact:
     - title: envelope
@@ -20,7 +21,8 @@ people:
       url: http://dweb.cjcu.edu.tw/iid/teacher/IN
 
 - name: 吳南烈 老師
-  pic: 2
+  pic: 1-1
+  pic2: 2-2
   position: 領隊
   contact:
     - title: envelope
@@ -30,7 +32,8 @@ people:
       url: http://dweb.cjcu.edu.tw/csie/teacher/CS
 
 - name: 蘇益生 老師
-  pic: 3
+  pic: 3-1
+  pic2: 3-2
   position: 副領隊
   contact:
     - title: envelope
